@@ -29,18 +29,18 @@ How It Works
 2.  Copies are created in the target calendar while preserving event details (title, description, location, and time).
     
 3.  Outdated copies are removed automatically.
-    
+
 
 Installation & Setup
 --------------------
 
 1.  **Open Google Apps Script**:
     
-    *   Go to Google Apps Script
+    *   Go to [Google Apps Script](https://script.google.com/)
         
     *   Create a new script project
         
-2.  **Copy and paste the script below into the editor**.
+2.  **Copy and paste the [syncGoogleCalendars.js](syncGoogleCalendars.js) into the editor**.
     
 3.  **Set up the required variables in the script**:
     
